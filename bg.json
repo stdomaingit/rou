@@ -1,5 +1,5 @@
-{
-  "1":"https://api.fdsxv.com",
-  "2":"https://api.ewr3.com",
-  "3":"https://api.xcvdf.com"
-}
+[
+  "https://api.fdsxv.com",
+  "https://api.ewr3.com",
+  "https://api.xcvdf.com"
+]
